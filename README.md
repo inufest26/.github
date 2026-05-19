@@ -1,0 +1,2 @@
+# .github
+Uyulacak Kurallar bütünü
