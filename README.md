@@ -1,6 +1,6 @@
 # OKUR - Kurallar Bütünü
 
-Bu belge, "OKUR - Yapay Zeka Destekli Akıllı Sınav Değerlendirme Sistemi" projesinin sürdürülebilir, kurumsal ve hatasız bir şekilde ilerlemesi için hazırlanmış **kesin kurallar bütünüdür**.
+Bu repo, "OKUR - Yapay Zeka Destekli Akıllı Sınav Değerlendirme Sistemi" projesinin sürdürülebilir, kurumsal ve hatasız bir şekilde ilerlemesi için hazırlanmış **kesin kurallar bütünüdür**.
 
 Aşağıdaki kurallar tavsiye niteliğinde değil, zorunluluktur. Otomatize edilmiş sistemler (Husky, CI/CD) kurallara uymayan kodların ana sisteme entegre olmasını engelleyecektir.
 
